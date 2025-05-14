@@ -1,3 +1,8 @@
+disclaimer: I used this with google slides
+
+
+
+
 Alex the Analyst Excel Practice, clean up and dashboard:
 
 Step one: data clean up (on google sheets) (so it can be dispalyed well and easier on a dashboard), select everything, click "data" on the top, drop down to "data clean up"
