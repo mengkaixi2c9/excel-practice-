@@ -8,3 +8,5 @@ with- control+H
 
 Step three: "if statement" for the "age bracket":
 IF()
+
+Step four: pivot tables
