@@ -5,3 +5,6 @@ there were 26 duplicated that were removed.
 
 Step two: changed the wording for "Martial Status" and "Gender", instead of a letter acronym, changed to the actual word "Single", "Married", "Male, "Female":
 with- control+H
+
+Step three: "if statement" for the "age bracket":
+IF()
